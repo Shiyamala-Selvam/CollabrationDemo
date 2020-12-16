@@ -3,3 +3,6 @@ Hello there
 ------------
 Updating file 
 
+------------
+Checking Conflict 
+
