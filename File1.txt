@@ -3,6 +3,11 @@ Hello there
 ------------
 Updating file 
 
+<<<<<<< HEAD
 ------------
 Checking Conflict 
+=======
+-------
+Updating by Shrihari
+>>>>>>> 8b3cc983ab8f4c8b32fd0a5918fa6f6431192f79
 
